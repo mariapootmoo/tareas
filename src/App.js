@@ -9,7 +9,6 @@ const App = () => {
         <img src="/imagen/to-do.png" className="logobt" alt="logo" />
       </div>
       <div className="tareas-lista-principal">
-        <h1>Tareas</h1>
         <ListaDeTareas />
       </div>
     </div>
